@@ -1,5 +1,4 @@
-package com.konnect.model;
-
+package model;
 import java.io.Serializable;
 
 public class Creator implements Serializable {

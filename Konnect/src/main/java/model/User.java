@@ -1,4 +1,4 @@
-package com.konnect.model;
+package model;
 
 import java.io.Serializable;
 
